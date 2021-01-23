@@ -77,8 +77,6 @@
 		CF2AA35B25B7615B009E2530 /* SubscribersViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubscribersViewController.swift; sourceTree = "<group>"; };
 		CF2AA35D25B7615B009E2530 /* AddSubscribersViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddSubscribersViewController.swift; sourceTree = "<group>"; };
 		CF2AA37E25B76301009E2530 /* MyCampainsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyCampainsViewController.swift; sourceTree = "<group>"; };
-		CF48E68425BB6000002754D2 /* ne */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ne; path = ne.lproj/Main.strings; sourceTree = "<group>"; };
-		CF48E68525BB6001002754D2 /* ne */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ne; path = ne.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		CF601BF325B75F2C0086973B /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CF601BFA25B75F360086973B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CF8DF7D225BB159800F8DFD3 /* SettingsConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsConfig.swift; sourceTree = "<group>"; };
@@ -362,7 +360,6 @@
 			knownRegions = (
 				en,
 				Base,
-				ne,
 			);
 			mainGroup = E802D40925B22969000E0671;
 			productRefGroup = E802D41325B22969000E0671 /* Products */;
@@ -568,7 +565,6 @@
 			isa = PBXVariantGroup;
 			children = (
 				E802D41C25B2296A000E0671 /* Base */,
-				CF48E68425BB6000002754D2 /* ne */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -577,7 +573,6 @@
 			isa = PBXVariantGroup;
 			children = (
 				E802D42125B22A22000E0671 /* Base */,
-				CF48E68525BB6001002754D2 /* ne */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
