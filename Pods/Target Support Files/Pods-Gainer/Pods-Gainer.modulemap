@@ -1,0 +1,6 @@
+framework module Pods_Gainer {
+  umbrella header "Pods-Gainer-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_Gainer_GainerUITests {
+  umbrella header "Pods-Gainer-GainerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

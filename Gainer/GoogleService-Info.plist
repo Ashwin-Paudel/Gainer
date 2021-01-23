@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1075006915048-kieku33d1kuk0jbk57gvhs5bc6cgj2p0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1075006915048-kieku33d1kuk0jbk57gvhs5bc6cgj2p0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBEWqNbjG6mO-wgHV_QN6vDQUKGolTLct4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1075006915048</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.buddhiman.Gainer</string>
+	<key>PROJECT_ID</key>
+	<string>gainer-c2fe7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gainer-c2fe7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1075006915048:ios:cbbe06f24a45e78373245d</string>
+</dict>
+</plist>

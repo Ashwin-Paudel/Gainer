@@ -1,0 +1,181 @@
+
+/* Class = "UILabel"; text = "300"; ObjectID = "0JS-JU-dGz"; */
+"0JS-JU-dGz.text" = "३००";
+
+/* Class = "UILabel"; text = "एर्‍ओर"; ObjectID = "2fa-VR-QdS"; */
+"2fa-VR-QdS.text" = "एर्‍ओर";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "3Df-5l-5qZ"; */
+"3Df-5l-5qZ.title" = "सेतिनं";
+
+/* Class = "UITextField"; placeholder = "ईमेल"; ObjectID = "56B-MY-a7r"; */
+"56B-MY-a7r.placeholder" = "इमाल";
+
+/* Class = "UILabel"; text = "300"; ObjectID = "5qm-VF-lmm"; */
+"5qm-VF-lmm.text" = "३००";
+
+/* Class = "UIButton"; normalTitle = "Purchase"; ObjectID = "6ug-PC-Xf3"; */
+"6ug-PC-Xf3.normalTitle" = "केन्नी";
+
+/* Class = "UITextField"; placeholder = "Enter ईमेल"; ObjectID = "7Ex-l4-yXY"; */
+"7Ex-l4-yXY.placeholder" = "इमाल राक्नोस";
+
+/* Class = "UILabel"; text = "1000 Points | $5"; ObjectID = "7WA-3x-lGf"; */
+"7WA-3x-lGf.text" = "१००० Points | $५";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "BKg-TR-D5x"; */
+"BKg-TR-D5x.normalTitle" = "लोग् इन";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "Bdp-vv-FK3"; */
+"Bdp-vv-FK3.placeholder" = "पहिलो नाम";
+
+/* Class = "UILabel"; text = "500 सुब्स्कृबेrs"; ObjectID = "Biq-rl-65v"; */
+"Biq-rl-65v.text" = "५०० सुब्स्कृबेर";
+
+/* Class = "UIButton"; normalTitle = "Purchase"; ObjectID = "CAv-nX-5gJ"; */
+"CAv-nX-5gJ.normalTitle" = "केन्नी";
+
+/* Class = "UITabBarItem"; title = "Campains"; ObjectID = "Coe-eW-tRF"; */
+"Coe-eW-tRF.title" = "कम्पैग्न्स";
+
+/* Class = "UILabel"; text = "100,000 Points | $700"; ObjectID = "DRh-m2-ZzF"; */
+"DRh-m2-ZzF.text" = "१००,००० पोइन्टस | $७०० ";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "Dzm-fb-443"; */
+"Dzm-fb-443.normalTitle" = "लोग इन";
+
+/* Class = "UITextField"; placeholder = "Amount of सुब्स्कृबेrs Wanted"; ObjectID = "Gcv-Wb-SoF"; */
+"Gcv-Wb-SoF.placeholder" = "कतिऊत सुब्स्कृबेर चाहिन्छ";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "Hyg-Bu-gym"; */
+"Hyg-Bu-gym.normalTitle" = "तिक";
+
+/* Class = "UIButton"; normalTitle = "सकियो"; ObjectID = "JfK-Ej-9YD"; */
+"JfK-Ej-9YD.normalTitle" = "सकियो";
+
+/* Class = "UILabel"; text = "गैनेर"; ObjectID = "JhE-n0-ecj"; */
+"JhE-n0-ecj.text" = "गैनेर";
+
+/* Class = "UIButton"; normalTitle = "Forgot पस्स्वर्ड"; ObjectID = "K3J-58-u8W"; */
+"K3J-58-u8W.normalTitle" = "पस्स्वर्ड बिर्सो";
+
+/* Class = "UITextField"; placeholder = "ईमेल"; ObjectID = "LP7-Pt-gsf"; */
+"LP7-Pt-gsf.placeholder" = "ईमेल";
+
+/* Class = "UILabel"; text = "Loading"; ObjectID = "Mwt-UG-UHq"; */
+"Mwt-UG-UHq.text" = "लोअदिङ";
+
+/* Class = "UITextField"; placeholder = "पस्स्वर्ड"; ObjectID = "NTS-J3-aqQ"; */
+"NTS-J3-aqQ.placeholder" = "पस्स्वर्ड";
+
+/* Class = "UIButton"; normalTitle = "सिग्न उप"; ObjectID = "NpN-qc-Iqy"; */
+"NpN-qc-Iqy.normalTitle" = "सिग्न उप";
+
+/* Class = "UIButton"; normalTitle = "Watch"; ObjectID = "NsX-CV-Z0x"; */
+"NsX-CV-Z0x.normalTitle" = "हेर्नी";
+
+/* Class = "UILabel"; text = "50 सुब्स्कृबेrs"; ObjectID = "O2w-zd-ZcG"; */
+"O2w-zd-ZcG.text" = "१५० सुब्स्कृबेर्स";
+
+/* Class = "UILabel"; text = "300"; ObjectID = "PxJ-b8-4dH"; */
+"PxJ-b8-4dH.text" = "३००";
+
+/* Class = "UILabel"; text = "गैनेर"; ObjectID = "RHd-IT-z3T"; */
+"RHd-IT-z3T.text" = "गैनेर";
+
+/* Class = "UITabBarItem"; title = "सुब्स्कृबे"; ObjectID = "RM1-XL-tP1"; */
+"RM1-XL-tP1.title" = "सुब्स्कृबे";
+
+/* Class = "UIButton"; normalTitle = "पस्स्वर्ड रेसेत ईमेल सेन्द गर्नी"; ObjectID = "RWr-jD-JHQ"; */
+"RWr-jD-JHQ.normalTitle" = "पस्स्वर्ड रेसेत ईमेल सेन्द गर्नी";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Suc-1M-QuJ"; */
+"Suc-1M-QuJ.normalTitle" = "ब्याक";
+
+/* Class = "UILabel"; text = "Hello, Name"; ObjectID = "Tmx-Ax-zUP"; */
+"Tmx-Ax-zUP.text" = "नमेस्त, नाम";
+
+/* Class = "UIButton"; normalTitle = "सकियो"; ObjectID = "U6e-hs-fG1"; */
+"U6e-hs-fG1.normalTitle" = "सकियो";
+
+/* Class = "UITextField"; placeholder = "च्यानल को इद लेक्नोउस"; ObjectID = "W3Z-wL-fDC"; */
+"W3Z-wL-fDC.placeholder" = "च्यानल को इद लेक्नोउस";
+
+/* Class = "UILabel"; text = "5000 Points | $30"; ObjectID = "WE5-Eq-Zbt"; */
+"WE5-Eq-Zbt.text" = "५००० पोइन्टस | $३०";
+
+/* Class = "UILabel"; text = "Auto सुब्स्कृबे Bot "; ObjectID = "WKy-YF-ltI"; */
+"WKy-YF-ltI.text" = "सुब्स्कृबे अफाइ गर्नी";
+
+/* Class = "UILabel"; text = "Welcome to गैनेर"; ObjectID = "X4X-np-Fc8"; */
+"X4X-np-Fc8.text" = "वेल्कोमे तो गैनेर";
+
+/* Class = "UILabel"; text = "Channel"; ObjectID = "XFS-up-Grd"; */
+"XFS-up-Grd.text" = "च्यानल";
+
+/* Class = "UILabel"; text = "एर्‍ओर"; ObjectID = "XMK-C0-981"; */
+"XMK-C0-981.text" = "एर्‍ओर";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "Xic-Tg-l4i"; */
+"Xic-Tg-l4i.normalTitle" = "तिक";
+
+/* Class = "UILabel"; text = "1 सुब्स्कृबेr"; ObjectID = "ZCR-zl-wT6"; */
+"ZCR-zl-wT6.text" = "1 सुब्स्कृबेr";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Zlt-jS-6No"; */
+"Zlt-jS-6No.normalTitle" = "ना गार्नि";
+
+/* Class = "UILabel"; text = "एर्‍ओर"; ObjectID = "a7B-mc-YdT"; */
+"a7B-mc-YdT.text" = "एर्‍ओर";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "a8O-Ca-Fin"; */
+"a8O-Ca-Fin.normalTitle" = "आद्";
+
+/* Class = "UIButton"; normalTitle = "Loading"; ObjectID = "amk-FS-B55"; */
+"amk-FS-B55.normalTitle" = "लोअदिङ";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "bDG-TP-EdJ"; */
+"bDG-TP-EdJ.placeholder" = "थर";
+
+/* Class = "UILabel"; text = "50/100"; ObjectID = "cA6-3q-x34"; */
+"cA6-3q-x34.text" = "५०/१००";
+
+/* Class = "UILabel"; text = "10,000 Points | $70"; ObjectID = "dYR-QD-KBd"; */
+"dYR-QD-KBd.text" = "१०,००० पोइन्टस | $७०";
+
+/* Class = "UIBarButtonItem"; title = "Log Out"; ObjectID = "fDJ-hF-WLR"; */
+"fDJ-hF-WLR.title" = "लोग ओउत";
+
+/* Class = "UIButton"; normalTitle = "Purchase"; ObjectID = "iqz-X1-zfj"; */
+"iqz-X1-zfj.normalTitle" = "किनि्";
+
+/* Class = "UILabel"; text = "गैनेर"; ObjectID = "jXH-hQ-m0Z"; */
+"jXH-hQ-m0Z.text" = "गैनेर";
+
+/* Class = "UITextField"; placeholder = "पस्स्वर्ड"; ObjectID = "k2e-1d-NLb"; */
+"k2e-1d-NLb.placeholder" = "पस्स्वर्ड";
+
+/* Class = "UILabel"; text = "250 सुब्स्कृबेrs"; ObjectID = "m59-mI-JeV"; */
+"m59-mI-JeV.text" = "२५० सुब्स्कृबेrs";
+
+/* Class = "UIButton"; normalTitle = "सिग्न उप"; ObjectID = "mgA-WN-rDd"; */
+"mgA-WN-rDd.normalTitle" = "सिग्न उप";
+
+/* Class = "UILabel"; text = "गैनेर"; ObjectID = "mm6-Ii-a8B"; */
+"mm6-Ii-a8B.text" = "गैनेर";
+
+/* Class = "UILabel"; text = "5000 सुब्स्कृबेrs"; ObjectID = "ngj-pt-uu1"; */
+"ngj-pt-uu1.text" = "५००० सुब्स्कृबेrs";
+
+/* Class = "UIButton"; normalTitle = "Purchase"; ObjectID = "oeU-Ll-3RV"; */
+"oeU-Ll-3RV.normalTitle" = "किनि्";
+
+/* Class = "UIButton"; normalTitle = "Loading"; ObjectID = "suS-6I-Gp7"; */
+"suS-6I-Gp7.normalTitle" = "लोअदिङ";
+
+/* Class = "UILabel"; text = "20 Points | 1 Ad"; ObjectID = "vUi-gW-xEV"; */
+"vUi-gW-xEV.text" = "२० पोइन्टस | १ अद";
+
+"subscribeBTN.normalTitle" = "सुब्स्कृबे";
+
+"skipBTN.normalTitle" = "स्किप";
