@@ -1,4 +1,5 @@
 # Gainer
+> Project no longer in development
 
 An old project; started a few days after learning Swift for the first time. 
 
